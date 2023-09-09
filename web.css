@@ -1,0 +1,94 @@
+h1{
+    color:gray;
+}
+nav{
+    background-color: black;
+color:grey;
+}
+h1:hover{
+    color:white;
+}
+h1,li,ul{
+color: grey;
+display: inline;
+padding: 20;
+}
+li:hover{
+    color:white;
+}
+ ul{
+    display: inline;
+     padding: 20;
+     margin-left: 600;
+     cursor: pointer;
+ }
+ input{
+    width:50%;
+ 
+padding: 12;
+ }
+ .searchbar{
+    padding: 100;
+    text-align: center;
+
+ }
+ img{
+    
+    width:300px;
+    height: 300px;
+    
+ }
+ .box{
+    padding-top: 100;
+    border-width: 2px;
+    border-style: solid;
+    padding: 20;
+    display: inline-block;
+    width:300;
+   
+    
+ }
+ p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant:small-caps ;
+    font-weight: bold;
+    
+ }
+ .box{
+ 
+    padding-top: 100;
+    border-width: 2px;
+    border-style: solid;
+    padding: 20;
+    display: inline-block;
+    width:300;
+ }
+ .box{
+    padding-top: 100;
+    border-width: 2px;
+    border-style: solid;
+    padding: 20;
+    display: inline-block;
+    width:300;
+ }
+ .box:hover{
+    background-color: black;
+    color:white;
+ }
+ .products{
+    text-align: center;
+ }
+ .aboutus{
+    text-align: center;
+    color:black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: bold;
+    margin-top: 20px;
+padding: auto;;
+ }
+.contact{
+    color: whitesmoke;
+    background-color: black;
+    text-align: center;
+}
